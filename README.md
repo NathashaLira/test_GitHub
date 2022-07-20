@@ -1,6 +1,6 @@
 # test_GitHub
 
-Versionamento realizado graças ao vídeo do Canal Vida de Dev (https://www.youtube.com/watch?v=07pNDto1K94) 
+Versionamento realizado com o auxilio do vídeo do Yotube do Canal Vida de Dev (https://www.youtube.com/watch?v=07pNDto1K94) 
 Abaixo vou listar o passo a passo que ele fez no vídeo, foi muito simples depois de algumas tentativas, rsrs....
 
 Primeiro você deve criar um repositório no GitHub;
